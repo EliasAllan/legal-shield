@@ -26,9 +26,8 @@ function App() {
         <article class="ls-card">
             {/* <img src="./assets/images/search-engine-optimization.jpg" alt="Table with work related items and notebook that says SEO" class="float-left" />
             <h2>Search Engine Optimization</h2> */}
-            <h2>
-            Do you have passive or residual/royalty income? If so that's great! Keep doing what you do. For those who don't, or would like to create another stream of income LegalShield might be for you.
-            </h2>
+            <h2> Do you have passive or residual/royalty income? If so that's great! Keep doing what you do. </h2>
+            <h2> For those who don't, or would like to create another stream of income, LegalShield might be for you. </h2>
         </article>
 {/* 
         <article id="online-reputation-management" class="online-reputation-management">
@@ -81,7 +80,7 @@ function App() {
         </article>
     </aside> */}
     <footer>
-        <h4>Developed with ❤️️ by Allan Elias</h4>
+        <h4>Developed by Allan Elias</h4>
         </footer>
     </>
   )
