@@ -130,7 +130,6 @@ p {
 
 /* Changes styling for the section in the bottom half of the screen (cards) */
 .ls-card {
-  width:100vw;
   text-align: center;
   margin-bottom: 20px;
   padding: 30px;
@@ -274,4 +273,10 @@ footer {
 /* Changes styling for the footer */
 footer h2 {
   font-size: 20px;
+}
+
+@media screen and (min-width: 1199px) {
+  .ls-card {
+    width:95vw
+  }
 }
