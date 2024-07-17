@@ -23,7 +23,7 @@ function App() {
     <section class="background-picture"></section>
 
      <section class="content">
-        <article class="search-engine-optimization">
+        <article class="ls-card">
             {/* <img src="./assets/images/search-engine-optimization.jpg" alt="Table with work related items and notebook that says SEO" class="float-left" />
             <h2>Search Engine Optimization</h2> */}
             <h2>
