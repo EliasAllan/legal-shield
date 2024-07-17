@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Legal Shield</h1>
+        <h1>LegalShield</h1>
         <nav>
             
 
@@ -81,10 +81,7 @@ function App() {
         </article>
     </aside> */}
     <footer>
-        <h4>Made with ❤️️ by Horiseon</h4>
-        <p>
-            &copy; 2019 Horiseon Social Solution Services, Inc.
-        </p>
+        <h4>Developed with ❤️️ by Allan Elias</h4>
         </footer>
     </>
   )
