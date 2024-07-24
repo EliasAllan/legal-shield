@@ -277,6 +277,7 @@ footer h2 {
 
 @media screen and (min-width: 1199px) {
   .ls-card {
-    width:95vw
+    width:95vw;
+    text-align: left;
   }
 }
