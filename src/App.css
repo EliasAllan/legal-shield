@@ -130,7 +130,7 @@ p {
 
 /* Changes styling for the section in the bottom half of the screen (cards) */
 .ls-card {
-  text-align: center;
+  text-align: left;
   margin-bottom: 20px;
   padding: 30px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -176,7 +176,7 @@ p {
 /* Changes styling for the section in the bottom half of the screen (cards) */
 .ls-card h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 18px;
 }
 
 /* Changes styling for the section in the bottom half of the screen (cards) */
@@ -278,6 +278,11 @@ footer h2 {
 @media screen and (min-width: 1199px) {
   .ls-card {
     width:95vw;
-    text-align: left;
+    text-align: center;
+  }
+
+  .ls-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
   }
 }

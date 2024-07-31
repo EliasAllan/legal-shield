@@ -24,10 +24,10 @@ function App() {
         </article>
     </section>
 
-    
+{/*     
     <footer>
         <h4>Developed by Allan Elias</h4>
-        </footer>
+        </footer> */}
     </>
   )
 }
