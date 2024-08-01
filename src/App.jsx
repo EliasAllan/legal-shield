@@ -21,6 +21,17 @@ function App() {
      
             <h2> Do you have passive or residual/royalty income? If so that's great! Keep doing what you do. </h2>
             <h2> For those who don't, or would like to create another stream of income, LegalShield might be for you. </h2>
+            <div>
+      <a
+        id="join-button"
+        href="https://fsfernandosixtos.wearelegalshield.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{ textDecoration: 'none', color: 'black', cursor: 'pointer' }}
+      >
+        Join our team
+      </a>
+    </div>
         </article>
     </section>
 
