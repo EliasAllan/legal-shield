@@ -24,7 +24,7 @@ function App() {
             <div>
       <a
         id="join-button"
-        href="https://fsfernandosixtos.wearelegalshield.com"
+        href="https://pplsi.pplsixinfo.com/243E1YdI0wwu8"
         target="_blank"
         rel="noopener noreferrer"
         style={{ textDecoration: 'none', color: 'black', cursor: 'pointer' }}
